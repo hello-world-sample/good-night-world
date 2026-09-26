@@ -3,5 +3,6 @@
 microserviceCi(
     app: 'good-night-world',
     image: 'adamko034/good-night-world',
-    namespace: 'hello-world-dev'
+    namespace: 'hello-world-dev',
+    servicePort: 1235
 )
