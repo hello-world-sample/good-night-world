@@ -3,6 +3,5 @@
 microserviceDeployProd(
     app: 'good-night-world',
     image: 'adamko034/good-night-world',
-    namespace: 'hello-world-prod',
-    servicePort: 1235
+    namespace: 'hello-world-prod'
 )
